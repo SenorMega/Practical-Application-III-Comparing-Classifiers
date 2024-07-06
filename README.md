@@ -11,6 +11,7 @@ Here is a summary of the accuracy scores for each of the three model types that 
 
 ![Screenshot 2024-07-06 150438](https://github.com/SenorMega/Practical-Application-III-Comparing-Classifiers/assets/161073693/d1ba69e6-8f47-4262-b8c9-994bc689705a)
 
+
 Using Randomized Search CV produced the same parameter suggestions while taking significantly less time. It was a helpful exercise to do this, but using the decision tree model renders it mostly moot because of its very quick train time. Regardless, the differences in search times are shown in this graph:
 
 ![Screenshot 2024-07-06 150506](https://github.com/SenorMega/Practical-Application-III-Comparing-Classifiers/assets/161073693/69230462-8e24-465c-aa10-9e2d3bfdcdda)
