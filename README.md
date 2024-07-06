@@ -22,4 +22,5 @@ Using Randomized Search CV produced the same parameter suggestions while taking 
 
 ![Screenshot 2024-07-06 150506](https://github.com/SenorMega/Practical-Application-III-Comparing-Classifiers/assets/161073693/69230462-8e24-465c-aa10-9e2d3bfdcdda)
 
-
+## Link to Jupyter Notebook
+https://github.com/SenorMega/Practical-Application-III-Comparing-Classifiers/blob/main/Prac%20Assignment%203.ipynb
